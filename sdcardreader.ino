@@ -1,8 +1,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7735.h>
-//#include <SdFat.h>
+#include <SdFat.h>
 #include <Adafruit_ImageReader.h>
-#include <ESP8266WiFi.h>
+
 
 // Declare pins for the display:
 #define TFT_CS     10 //CS du TFT
